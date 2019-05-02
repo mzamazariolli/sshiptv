@@ -1,0 +1,1 @@
+from .gerenciador import GERENCIADOR
